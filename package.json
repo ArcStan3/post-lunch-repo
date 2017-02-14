@@ -1,0 +1,20 @@
+{
+  "name": "post-lunch-repo",
+  "version": "1.0.0",
+  "description": "new file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArcStan3/post-lunch-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArcStan3/post-lunch-repo/issues"
+  },
+  "homepage": "https://github.com/ArcStan3/post-lunch-repo#readme"
+}
